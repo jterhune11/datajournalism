@@ -6,3 +6,4 @@ This data set contains information on approved and provisional cannabis business
 * Number of minority-owned businesses
 * Locations of approved businesses
 SOS help needed
+^I can't offer any help
